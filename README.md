@@ -43,9 +43,8 @@
 ### 友情提示:
 
     任何问题(包括有空格的问题)都可以直接输入终端；但当需要问有回车换行的内容(比如代码块)需要使用三引号包裹代码块
-    <img width="1073" alt="image" src="https://user-images.githubusercontent.com/111847318/224000019-e622daee-5f63-4a69-a173-a21238ac5468.png">
-    <img width="1071" alt="image" src="https://user-images.githubusercontent.com/111847318/224000550-d90dec07-3b52-43e0-8b35-5d4314f34b82.png">
-
+    ![img](https://cdn.jsdelivr.net/gh/klearcc/pic/img202303091849590.png)
+    ![img](https://cdn.jsdelivr.net/gh/klearcc/pic/img202303091849138.png)
     
     
 
