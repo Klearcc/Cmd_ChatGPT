@@ -23,7 +23,7 @@
 
 2. 在[这里](https://platform.openai.com/account/api-keys)申请两个token，分别填入脚本内token1、token2
 
-3. 添加下面内容至~/.bash_profile，xxxxx为脚本的绝对路径。保存后新建终端就可以使用了。
+3. 添加下面内容至~/.bashrc，xxxxx为脚本的绝对路径。保存后新建终端就可以使用了。
 
     ```
     #chatGPT cmd
